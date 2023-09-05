@@ -1,0 +1,4 @@
+Version: 	CRforVS13SP31_0-10010309
+Site Url: 	https://www.tektutorialshub.com/crystal-reports/download-crystal-reports-for-visual-studio-2019/
+link:		https://akall.softwaredownloads.sap.com/?file=0020000001250222021&downloadId=ba26bced-063b-4fcd-91ba-d21a124e5ea6&v=1&u=D56564073838&path=002/2021/0000000013/000000125022/001/CR13SP31MSI64_0-10010309.MSI
+Info:		Service Pack 31	VS 2019 to VS 2010 SP 31
